@@ -3,7 +3,7 @@
 //Q.1
 var i=2;
 const array = [];
-for(let i=0;i<i;i++){
+for(let i=0;i<i;i++);{
 	array.push(i+1);
 }
 console.log(array);
