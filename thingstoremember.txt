@@ -1,0 +1,9 @@
+Here are the concepts that i need to do for interview this time - 
+
+1. Debounce and throttle - See the example, use cases and implementation of these two and then try to implement them in your own component, maybe a custom hook in React which helps you achieve the functionality.
+2. CSS - Read about CSS3, 3D transformations, which type of css (internal, external and inline) takes priority ?, LESS/SCSS, examples of basic CSS and advanced like creating Spinner/Loader, Progress Bar, Modal, Carousel etc, CSS in JS and styled components etc.
+3. Arrays - Do a basic to advanced series of questions of arrays incuding dynamic programming problems as well to have a good hold of atleast array problem statements. 
+4. Rest of the DS - Do a basic round of theories/problem statements of Trees, Stack, Queue and maybe Graphs if you get the time.
+5. Dynamic Programming - This is something that really boosts up the chances of clearing up the interviews because every interviewer just does nothing. He himself does not even know about it and pulls it up from geeksforgeeks randomly. So if you're really looking for stepping up the game, go for this.
+React - Brush up the concepts and put some efforts in updates like Redux has new way of implementing immutable state updates with the help of Redux Toolkit and some of the usecases of custom hooks. Some other hooks like useImperativeHandler, useRef etc would also be useful.
+JavaScript - Brush up. Look for next level problems on these - Prototype, Static, THIS (confusing), Promises (also what's new?), POLYFILL (setTimeout, setInterval, array methods map, reduce, filter).
