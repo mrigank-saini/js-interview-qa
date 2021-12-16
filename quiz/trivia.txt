@@ -1,0 +1,2 @@
+How do you create an object in JS that has no prototype ? - Object.create(null), because whatever you pass to the newly created object will become the prototype of it. Point to remember here is that Object.create(undefined) won't work here because the prototype of an object can only be EITHER NULL or OBJECT.
+
