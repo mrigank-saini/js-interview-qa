@@ -1,4 +1,7 @@
 /*
+This happened on 08-Jan-2022
+*/
+/*
 Q-1: Output Question - 
 */
 console.log(' [1]');
