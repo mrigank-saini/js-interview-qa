@@ -33,5 +33,9 @@ array.addEventListener('push', (item) => {console.log(item);
 array.pushWithEvent(5);
 
 /*
-Q-3 - Web vitals (FTTP, FTTO etc.) explain those
+Q-3 - Web vitals explain those
+Answer - https://web.dev/vitals/
+    1. LCP - Large Contentful Paint - measures loading performance. LCP should occur within 2.5 seconds.
+    2. FID - First Input Delay - measures interactivity . Pages should have a FID of 100 ms or less.
+    3. CLS - Cumulative Layout Shift - measure visual stability. Pages should maintain a CLS of 0.1 or less.
 */
