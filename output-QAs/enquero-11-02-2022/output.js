@@ -36,12 +36,8 @@ Q4 -
   setTimeout(function clog() {console.log(i)});
 })()console.log(a);
 
-
-Let a = [1,2,2,3,4,5,5];
-
-Let i=0;j=1;
-
 Q-5
+let a = [1,2,2,3,4,5,5];
 How to remove duplicates from an array 
 Ans - Using Set()
 */
