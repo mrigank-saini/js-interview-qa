@@ -11,7 +11,7 @@ Example:
 let m = new Map();
 let result ={};
 
-const setValue = (obj,keys)=>{
+const setValue = (obj)=>{
 	for(let i in obj){
   	if(m.has(i)){
     if(m.get(i)["flag"]){
@@ -37,9 +37,8 @@ const setValue = (obj,keys)=>{
 }
 
 const intersection = (arr)=>{
-  let keys =	Object.keys(arr[0]);
   arr.map(cur=>{
-    setValue(cur,keys);
+    setValue(cur);
   }) 
 }
 //intersection([{a:102,b:20,d:30},{a:10,b:20,d:40},{a:10,b:20,d:30},{a:10,b:20,d:30}]);
