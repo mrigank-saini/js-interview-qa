@@ -15,4 +15,6 @@ Q-4: Event Looping
 
 Q-5: Diff bw Cookies and Sessions
 
+Q-6: Implement count(4).add(2).mul(2).divide(2).val()
+
 */
